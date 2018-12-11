@@ -1,5 +1,8 @@
 # Ultrasound-Nerve-Segmentation
 
+## Authors:
+Pragun, Bhaskar
+
 ## Goal:
 **Identify nerve structures in ultrasound images of the neck**
 
@@ -19,6 +22,10 @@ https://www.kaggle.com/c/ultrasound-nerve-segmentation/
 - **/test/** contains the test set images, named according to imageNum.tif. You must predict the BP segmentation for these images and are not provided a subject number. There is no overlap between the subjects in the training and test sets.
 - **train_masks.csv** gives the training image masks in run-length encoded format. This is provided as a convenience to demonstrate how to turn image masks into encoded text values for submission.
 - **sample_submission.csv** shows the correct submission file format.
+
+## Requirement:
+- fastai
+
 
 
 
