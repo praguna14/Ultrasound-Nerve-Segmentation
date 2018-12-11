@@ -1,7 +1,8 @@
 # Ultrasound-Nerve-Segmentation
 
 ## Authors:
-Pragun, Bhaskar
+- Pragun
+- Bhaskar
 
 ## Goal:
 **Identify nerve structures in ultrasound images of the neck**
