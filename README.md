@@ -1,7 +1,7 @@
 # Ultrasound-Nerve-Segmentation
 
 ## Authors:
-- Pragun
+- Praguna
 - Bhaskar
 
 ## Goal:
